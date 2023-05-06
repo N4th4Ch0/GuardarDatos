@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GuardarDatos</string>
+    <string name="txt_name">Ingrese el nombre</string>
+    <string name="txt_datos">Datos</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_guardar">Guardar</string>
+
+
+
 </resources>
